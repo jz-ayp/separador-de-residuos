@@ -24,6 +24,8 @@ Los caracteres en la cadena tendrán el siguiente significado:
 
 Cualquier otro – Otro tipo de residuos 
 
+Codifica tu solución en el archivo [`residuos.py`](/residuos.py).
+
 ## Restricciones
 La longitud de la cadena *S* será de entre 1 y 1024 caracteres.
 
